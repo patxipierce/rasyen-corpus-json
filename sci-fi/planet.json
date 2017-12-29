@@ -1,0 +1,219 @@
+{
+    "class": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "X",
+        "Y",
+        "Z"
+    ],
+    "mark": [
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "IIX",
+        "IX",
+        "X"
+    ],
+    "quirk": {
+        "A": [
+            "the surface of this planet is so soft that walking on it causes small tremors, it feels a lot like walking on Jell-O"
+        ],
+        "B": [
+            "the vegetation here is wildly colorful, blue, pink, yellow and green, when the wind moves the vegetation it has a mysterious hypnotic effect on observers"
+        ],
+        "C": [
+            "rocks here tend to teleport themselves without warning, sometimes several meters above the ground. As a result the planet is constantly shifting shape and size"
+        ],
+        "D": [
+            "covered in holes and tunnels the inner core of this body is famous for being a hiding place for space-pirates, smugglers and other rogue vessels"
+        ],
+        "E": [
+            "the gas clouds from the erupting volcanoes here make this place a harsh environment to survive in, except for magma elementals, they love it here"
+        ],
+        "F": [
+            "this planet has a life form that can connect neurologically with others of its kind, and it reproduces so quickly it can turn into a mega-fauna overnight"
+        ],
+        "G": [
+            "a thing called a ”Symbiape“ lives here, it can deconstruct into tiny single-minded monkey like creatures, or merge with others to form a hyper intelligent being"
+        ],
+        "H": [
+            "famous for its shifting magnetic polarity, most technology is rendered useless in this planet, it has become inhabited by several races that are stranded there"
+        ],
+        "I": [
+            "for unknown reasons the gasses here are always circulating in a laminar motion making the planet look stripped like a colorful zebra"
+        ],
+        "J": [
+            "the eye of a storm in this gas giant is perfectly still, and it somehow negates the immense gravity that goes on outside"
+        ],
+        "K": [
+            "there are several slightly different com-signals coming from this rocky planet, but in reality they are all distorted echoes of one message, transmitted long ago"
+        ],
+        "L": [
+            "the planets jungle has a primitive species that has learned to domesticate the mega fauna there and they have mega fauna races every three seasons"
+        ],
+        "M": [
+            "a virus local to the planet makes all who are infected to crave for ice-cream, even if they've never had any before"
+        ],
+        "N": [
+            "this planets sands are pitch black, legend says that under the black sands lives a very old and wise creature, the last one of his kind"
+        ],
+        "O": [
+            "known as the paradise lost, this planet has turquoise waters and white beaches, sadly, its inhabitants are mosquito-people, who can be very unpleasant"
+        ],
+        "P": [
+            "a world of sea and floating ice, there is a sea here with waves so tall that there is even danger of being hit by an iceberg from above"
+        ],
+        "Q": [
+            "known as the ”Maddening Black“, this planet is lost in a space of nothingness, the utter darkness that surrounds it has can drive its visitors insane"
+        ],
+        "R": [
+            "this planet has been turned by its inhabitants into a world-starship in which they travel through the cosmos in search of a legendary artifact"
+        ],
+        "S": [
+            "the surface body of this gaseous body is colder than it should be, indicating that its components are held in some sort of planetary stasis field"
+        ],
+        "T": [
+            "the gravity of this body is so large that by following behind its orbit you will be cast further and further back in time"
+        ],
+        "X": [
+            "due to intense gravitational fluctuations the crystals that grow here have a bizarre zigzagging appearance"
+        ],
+        "Y": [
+            "the immense radiation has affected time in an unknown way, actions performed on the planet might happen twice, or other times not at all",
+            "there are crystal based creatures living here, an ancient race that cannot die, and therefore sees no point in doing anything at all"
+        ],
+        "Z": [
+            "fossils of self-replicating lifeforms are present in this planet, but something mysterious happened and nothing but their mineralized image is left of them",
+            "on first inspection the planet seems to have inscriptions over most of its surface, but it turns out the glyphs are the fossilized bodies of an ancient extinct race"
+        ]
+    },
+    "description": {
+        "A": [
+            "a young planet with a soft core",
+            "a forming new planet with a liquid core",
+            "a newborn planet with a molten core",
+            "a small recent planet with a hollow center",
+            "a small new planet with a gaseous core"
+        ],
+        "B": [
+            "a tiny young spheroid with a hardening core",
+            "a small young astronomical body with a loose granular core",
+            "an infant planetoid with a spongy soft core",
+            "a small recent planet with a fluffy core"
+        ],
+        "C": [
+            "a small young spheroid with a hard core",
+            "a new planet with a solid rock core",
+            "an infant astronomical body with a frozen core",
+            "a newborn spherical body with a hard carbon center",
+            "a young solid sphere with a granite core"
+        ],
+        "D": [
+            "a planetoid with a breathable atmosphere",
+            "an asteroid with no atmosphere",
+            "a small moon with no breathable atmosphere"
+        ],
+        "E": [
+            "a young proto-Earth sized spherical body in formation with a core that is still hardening",
+            "a juvenile proto-Earth sized planet with a core that is still cooling",
+            "an infant proto-Earth sized spheroid that has molten minerals and some solid spots",
+            "a recently formed proto-Earth sized orb that shakes and trembles constantly",
+            "a young proto-Earth sized planet with a volcanic surface and flowing rivers of lava",                
+            "a new proto-Earth sized planet with a forming core"
+        ],
+        "F": [
+            "a middle aged proto-Earth sized planet with a soft core"
+        ],
+        "G": [
+            "an old proto-Earth-sized planet with an unstable core"
+        ],
+        "H": [
+            "a harsh desert world with an oxygen/argon atmosphere"
+        ],
+        "I": [
+            "a gas super-giant with dense rings composed of space dust and mineral debris that siphon slowly into the planet"
+        ],
+        "J": [
+            "a conventional gas giant composed mostly of hydrogen and helium"
+        ],
+        "K": [
+            "a barren world with no native life and no breathable atmosphere, but has reasonably tolerable gravity"
+        ],
+        "L": [
+            "covered with an array of primitive ecosystems"
+        ],
+        "M": [
+            "covered with glowing fungi and fern-like plants with an oxygen/nitrogen atmosphere",
+            "covered with giant tree sized mushrooms"
+        ],
+        "N": [
+            "a barren and mountainous place",
+            "a place plagued by desertification"
+        ],
+        "O": [
+            "a liquid sphere of oceans with scattered rocky islands",
+            "a water world with no surfacing rocks and gigantic waves",
+            "a small body with its core completely submerged in water",
+            "a place with oceans with waves that reach the sky because of strong celestial gravitation"
+        ],
+        "P": [
+            "a world of frozen oceans with huge waves",
+            "a ball of ice, smooth as a billiard ball",
+            "a place engulfed by ice water and icebergs as big as a mountain",
+            "a sphere covered in snow and ice, storms roar over a frozen ocean" 
+        ],
+        "Q": [
+            "a continually changing environment caused by a peculiar orbit"
+        ],
+        "R": [
+            "a planetary body that does not orbit a star but drifts freely in space and does not support life"
+        ],
+        "S": [
+            "a large gas giant with rings composed of gasses and space debris"
+        ],
+        "T": [
+            "a very dense for a gas ultra-giant, making its surface shift from liquid to gaseous constantly like a ghostly ocean",
+            "a place with two blue and red planetary tornadoes that taint an entire hemisphere deep purple",
+            "a spheroid with black spots over a metallic surface, making it look like a spherical cheetah",
+            "a sub-brown dwarf, composed of several thousands of gasses, but mostly hydrogen and helium",
+            "a brown dwarf with several rings around it, which emit dangerous levels of radiation",
+            "a gaseous ultra-giant so large that it might soon turn into a star",
+            "a humongous gas giant with elegant patters made of its various component gasses"
+        ],
+        "X": [
+            "a younger astronomical body that emits lethal amounts of radiation, so much in fact that the planet is slowly turning into cosmic dust"
+        ],
+        "Y": [
+            "a body with a toxic atmosphere and thermeonic radiation",
+            "a rock with a toxic atmosphere, sulphuric deserts and no trees, in fact, no life at all",
+            "a place with surface temperatures of over 500 Kelvin",
+            "a gaseous nitric atmosphere is so acid it can can corrode almost anything",
+            "a glass super-storm of epic proportions covers the lower atmosphere, shredding the surface constantly",
+            "a surface covered in sharp carbon crystals, with molecule thin sharp edges that spike out in every direction"
+        ],
+        "Z": [
+            "an ancient celestial body with an unbreathable atmosphere and extreme temperatures that go from absolute zero, to 500 Kelvin every 18 hours"
+        ]
+    }
+}

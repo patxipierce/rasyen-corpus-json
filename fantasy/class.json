@@ -1,0 +1,34 @@
+{
+    "basic": [
+        "cleric",
+        "fighter",
+        "rogue",
+        "wizard",
+        "barbarian",
+        "bard",
+        "druid",
+        "monk",
+        "paladin",
+        "ranger",
+        "sorcerer",
+        "warlock"
+    ],
+    "prestige": [
+        "arcane archer",
+        "assassin",
+        "blackguard",
+        "dwarven defender",
+        "loremaster",
+        "shadowdancer",
+        "arcane trickster",
+        "archmage",
+        "dragon disciple",
+        "duelist",
+        "eldritch knight",
+        "hierophant",
+        "horizon walker",
+        "mystic theurge",
+        "red wizard",
+        "thaumaturgist"
+    ]
+}

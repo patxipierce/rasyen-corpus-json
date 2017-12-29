@@ -1,0 +1,53 @@
+{
+    "top" : [
+        "heads",
+        "eyes",
+        "teeth",
+        "ears",
+        "mouths",
+        "noses",
+        "ears",
+        "antennae",
+        "feelers",
+        "antlers",
+        "trumps",
+        "horns",
+        "antlers",
+        "ram horns",
+        "cat ears",
+        "tusks",
+        "whiskers"
+    ],
+    "middle" : [
+        "claws",
+        "necks",
+        "arms",
+        "paws",
+        "beaks",
+        "hands",
+        "fingers",
+        "elbows",
+        "stomachs",
+        "abdomens",
+        "torsos",
+        "pelvis",
+        "butts",
+        "wings",
+        "tentacles",
+        "spikes",
+        "armoured plates"
+    ],
+    "bottom" : [
+        "fins",
+        "knees",
+        "legs",
+        "armoured plates",
+        "tentacles",
+        "tails",
+        "wheels",
+        "furry tails",
+        "scorpion tails",
+        "feet",
+        "toes"
+    ]
+}

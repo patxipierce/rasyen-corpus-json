@@ -1,0 +1,47 @@
+{
+    "archetype" : [
+        "Circle of Anathema",
+        "Circle of Animal Companionship",
+        "Circle of Animals",
+        "Circle of Birds and Beasts",
+        "Circle of Chaos",
+        "Circle of Dragons",
+        "Circle of Dragons (Variant)",
+        "Circle of Faezres",
+        "Circle of Life",
+        "Circle of Oozes",
+        "Circle of Plants",
+        "Circle of Reptiles",
+        "Circle of Rodents",
+        "Circle of Rot",
+        "Circle of Spiders",
+        "Circle of The First Forest",
+        "Circle of Vengeance",
+        "Circle of the Beast",
+        "Circle of the Claw",
+        "Circle of the Elements",
+        "Circle of the Fountain",
+        "Circle of the Furies",
+        "Circle of the Hunt",
+        "Circle of the New Moon",
+        "Circle of the Noble Beast",
+        "Circle of the Seasons",
+        "Circle of the Sun",
+        "Circle of the Wildlife",
+        "Prehistoric Circle",
+        "The Voice"
+    ],
+    "achievement" : [
+        "learned the hunter’s last rites and performed them after slaying a bull elk",
+        "allowed a bird to nest in your cupped hands",
+        "cultivated the notoriously fickle winter ivy without using magic",
+        "earned the trust and friendship of a myconid colony",
+        "returned a defiled place to a state of natural health",
+        "beat up a lumberjack"
+    ],
+    "incantation" : [
+        "Energy shaped like a wild animal appears",
+        "Magical energy rushes forth from the surrounding wilderness",
+        "Energy in the form of glowing petals and other vegetable life surrounds the caster"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "good": [
+        "chaotic good",
+        "neutral good",
+        "lawful good"
+    ],
+    "neutral": [
+        "chaotic neutral",
+        "true neutral",
+        "lawful neutral"
+    ],
+    "evil": [
+        "chaotic evil",
+        "neutral evil",
+        "lawful evil"
+    ],
+    "chaotic": [
+        "chaotic good",
+        "chaotic neutral",
+        "chaotic evil"
+    ],
+    "lawful": [
+        "lawful good",
+        "lawful neutral",
+        "lawful evil"
+    ]
+}

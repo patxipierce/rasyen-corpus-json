@@ -1,0 +1,50 @@
+{
+    "archetype" : [
+        "Arcana Domain",
+        "Cold Domain",
+        "Darkness Domain",
+        "Domain of the Old Ones",
+        "Dragon Domain",
+        "Evangelist Domain",
+        "Fire Domain",
+        "Keyblade Domain",
+        "Law Domain",
+        "Life & Death Domain",
+        "Lightning Domain",
+        "Love Domain",
+        "Luck Domain",
+        "Magic Domain",
+        "Martyrdom Domain",
+        "Miracle Domain",
+        "Mythos Domain",
+        "Oceanic Domain",
+        "Ooze Domain",
+        "Peace Domain",
+        "Protection Domain",
+        "Shadow Domain",
+        "Spider Domain",
+        "Spirit Domain",
+        "Strife Domain",
+        "The Flame",
+        "Time Domain",
+        "Titan Domain",
+        "Travel Domain",
+        "Undead Lord Domain",
+        "Undeath Domain",
+        "Underworld Domain",
+        "War Domain"
+    ],
+    "achievement" : [
+        "translated a page of the Mad God’s Tome",
+        "acquired the ingredients for incense and prepared it",
+        "read the scripture cover to cover",
+        "learned the fundamentals of the morningstar",
+        "worked for a time as a beadsman at the local alms-house",
+        "finished all the paperwork in their to-do bin"
+    ],
+    "incantation" : [
+        "Energy falls from the sky",
+        "Divine power emerges from the ground",
+        "A beam of energy originates from the casters holy symbol"
+    ]
+}

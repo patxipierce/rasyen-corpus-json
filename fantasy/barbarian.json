@@ -1,0 +1,47 @@
+{
+    "archetype" : [
+        "Aberrant",
+        "Bloodrager",
+        "Cannibal",
+        "Crimson Knight",
+        "Einherji",
+        "Eye of Gruumsh",
+        "Path of Crash",
+        "Path of Rhonas",
+        "Path of the Abomination",
+        "Path of the Battleborn",
+        "Path of the Dragon Shaman",
+        "Path of the Exile",
+        "Path of the Fist",
+        "Path of the Healer",
+        "Path of the Ki Warrior",
+        "Path of the Lumberjack",
+        "Path of the Pinoak Warrior",
+        "Path of the Primal Dragon",
+        "Path of the Rage Mage",
+        "Path of the Scourge",
+        "Path of the Shaman",
+        "Path of the Siege Tower",
+        "Path of the Silent Berserker",
+        "Path of the Slayer",
+        "Path of the Survivor",
+        "Path of the Titan",
+        "Path of the Titanborn",
+        "Path of the Warlord",
+        "Path of the Warrior Shaman",
+        "The Scale"
+    ],
+    "achievement" : [
+        "survived a night in the wild with only a spear",
+        "captured a live bison with only a rope",
+        "swam up the river rapids naked",
+        "touched together the two ends of an iron rod with their bare hands",
+        "turned the stone idol statue to face the sunrise",
+        "beat up a bear using only their hands and completely naked"
+    ],
+    "incantation" : [
+        "By sheer concentration of rage the power of anger manifests itself as magic energy",
+        "The will of the caster is so strong that magic is willed into existence",
+        "By the use of the powers of their ancestors the caster invokes energy into existence"
+    ]
+}

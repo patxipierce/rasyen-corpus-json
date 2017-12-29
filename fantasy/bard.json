@@ -1,0 +1,42 @@
+{
+    "archetype" : [
+        "Bartender",
+        "College of Boons",
+        "College of Compulsion",
+        "College of Death's Song",
+        "College of Divinity",
+        "College of Fortune",
+        "College of Healing",
+        "College of Hymn",
+        "College of Jesters",
+        "College of Names",
+        "College of Necromancy",
+        "College of Pain",
+        "College of Prestige",
+        "College of Sorrow",
+        "College of Sound",
+        "College of Taiko",
+        "College of Vylius",
+        "College of the Band",
+        "College of the Falling Star",
+        "College of the Gambler",
+        "College of the Toréador",
+        "College of the Wilds",
+        "Sunsinger",
+        "The Edge",
+        "Troubadour"
+    ],
+    "achievement" : [
+        "composed a sonata in the style of a famous composer",
+        "constructed their own instrument",
+        "performed at every inn in the capital",
+        "recited the epic tale of Gray Wolf from memory",
+        "sat through the entire 28 hour “Ode to Warm Milk”",
+        "got a groupie"
+    ],
+    "incantation" : [
+        "Energy manifests from thin air a foot in front of their instrument as they play",
+        "Energy is shaped like ribbons of written music that ripples towards enemies",
+        "Several tiny motes of energy appear with each note sung or played."
+    ]
+}

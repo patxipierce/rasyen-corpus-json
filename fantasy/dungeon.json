@@ -1,0 +1,58 @@
+{
+    "site" : [
+        "The catacombs of an abandoned cathedral, where faith was lost and buried with the dead monks that still guard the resting place of the high priest.",
+        "The petrified gardens of the Black King, where under stone thickets and arches of granite trees, beasts dwell in constant hunger, unable to die.",
+        "The dungeon of Ark's cylinder, this is a dungeon that goes up instead of down. The entrance is at the base of a mountain rich in precious ore, and to get to Ark's laboratory one must only go up.",
+        "An abandoned mage tower located at the bottom of a lake, one enters the dungeon by accessing the last tower window by boat, and then descends into the tower.",
+        "The realm of Achem which is not a dungeon completely, it is a pocket dimension the size of a city. Part abandoned to war and beasts, and part active with commerce. There are no directions in Achem, the city ends where it starts and vice versa.",
+        "The hut of Baba Yaga, a small log cabin stilted on enormous bird legs that will cast intruders into its magical interior, where a maze of rooms, passageways and traps await the poor soul who ventures into it.",
+        "The forest has uncovered an arched doorway to a vast network of tunnels, they were discovered under the roots of a large tree that fell, some believe it was the secret exit to an underground kobold hoard.",
+        "The Mountain of Permanence, a bewitched place riddled with tunnels and caves, where things evocated or conjured by magical means last longer than usual, by the mountain side fireballs roll, magic missiles bounce off rocks and thunder storms roam like wild beasts, summoned monsters dwell there looking for a way back to their homes. Some say that if the top of the mountain is reached true permanency is enforced on all spells that are cast there.",
+        "The Dungeons of Doom, the most traditional dungeon of all the lands, it has been explored to the utter end and you can even buy inexpensive maps to tour it in all the nearby towns. Novice adventurers and children often wander into its stone hallways in search of any loot, to their deception they find it mostly empty already.",
+        "The Cube of Malebolge, a dungeon in the shape of a cube floating in space which can only be accessed through a travelling portal that always appears just in time to engulf new creatures and vanish, no one knows its purpose and few have ever made it back out.",
+        "The God Cradle, somewhere in the depths of the Underdark there is said to be a series of tunnels and rooms that form a gigantic star shaped pentagram, the corridors are protected by devils and other abyssal creatures. The center is not connected to the tunnels but it is said to be the birthplace of an evil god.",
+        "The Orc Hatchery, a dungeon that spools orcs constantly, its entrance is rumoured to be somewhere in the vast wastelands, but the exact location and purpose remains a secret that even the orcs are unaware of.",
+        "The Tunnels of Zithar, composed of a maze of pits, towering chimneys and tunnels. Zithar is rumored to be a beholder that has attained lichdom and now pulls the strings to attract pray into his halls to torture and play with them.",
+        "An unlikely place to find a dungeon, under the castle of King Mursh, lay tunnels as old as the rock itself. Used as a place to throw thieves and wrong-doers to let them rot, no one knows how deep they really go."
+    ],
+    "room" : [
+        "Illusory light that comes through the wall, giving life to an illusory tree in the middle. The tree says hello!",
+        "A mushroom circle at a mouldy patch in the centre of the room, its incomplete by one mushroom. You see the mushroom missing has been pulled out and left in a corner.",
+        "The door that brought you in this room seems to bring you back into the same room, going back also does the same.",
+        "There is a stone throne in the back of the room with a skeleton wearing a crown, he seems to be smiling about something.",
+        "You see a sword suspended in mid air in this narrow chamber, on further inspection it is a gelatinous cube with the sword in the middle.",
+        "A shrine to a blood god, walls painted thick with hundreds of sacrifices, the altar at the centre of the room is clean and white, as if it had been polished just now.",
+        "An unnaturally thick darkness, a veil of shadows seems to cover your vision. Across the magic darkness you find bones scattered on the floor, some of them rattle at your presence.",
+        "In the middle of the room there is a stone shrine, dirty with a thick toxic and putrid substance. The souls of those offered in this room are still within it.",
+        "A large room with a dozen statues of headless figures, the walls are dusty except for places where claw marks can be seen, you hear a faint hissing sound.",
+        "A round room with a pit in the middle, there are three thick wooden doors around the pit with iron reinforcements. Something is moving in the murky water below.",
+        "The walls are made of solid rock, an old blanket lies in a corner next to scratches made into the rock, probably made by someone counting their time in captivity.",
+        "The walls and floor are a moss-covered flagstone. Stones are missing here and there, exposing the earth. The ceiling is almost entirely exposed earth, supported by stone arches which criss-cross the ceiling. Roots poke through here and there, and it looks as though it wouldn’t take much for the dirt to collapse into the room.",
+        "The walls have corpse shelves here, though most of these are empty. There are 12 shelves in all, but only three bodies remain. Close examination of any of the empty shelves will reveal a small pressure plate in roughly the same spot on each shelf. Pressing the plate does nothing. Close examination of the wall across from any shelf will reveal a small hole, the purpose of which is unclear.",
+        "In the center of this room, a wooden chair with skulls piled up around the base of it. Several skulls are nailed to the sides and legs of the chair as well. A young man in black robes with skulls haphazardly sewn onto the shoulders is nervously pacing here.",
+        "A statue on the Western wall stretches an arm straight out, pointing at a spot on the floor. The statue wears a crown. If the base of the statue is inspected, the players will find writing which reads only “The Pretender.”"
+    ],
+    "hallway" : [
+        "a hallway that snakes slightly letting you see the end, but at the same time concealing parts of its walls, at the end a lit torch illuminates a wooden door",
+        "a long corridor stretches until it hits a solid stone wall, where you can go right or left",
+        "three doors are fitted into the back of the room, the one in the middle seems bigger, but after a closer look its the same height as the rest",
+        "a winding narrow hole in the wall leads through a crudely excavated tunnel to a carefully crafted door with a brass handle",
+        "a stone lined wall stretches downwards a slope, sided with a small channel with water running along it, the other side is dark and hard to make out",
+        "a sudden stop and a vast chimney above, a small rusty staple ladder leads up into the darkness",
+        "a snaking narrow shaft carved out of bare rock, still has scars of fights fought there and dark stains on the rock where the fights ended",
+        "a long hall with a door on the other end, shields and heraldic symbols carved into the stone wall, the first few are well crafted, while the last one is crude, almost childish.",
+        "a sudden dip in the passage which is flooded with a pitch black liquid, perhaps there is a way through underwater but the thin bubbles near the end make it an unappealing choice"
+    ],
+    "trap" : [
+        "a pressure trigger that shoots a poisoned arrow",
+        "a stone chest carved from a larger rock when opened launches a fireball from the back of its lid",
+        "a light beam that fires darts when interrupted",
+        "a heavy stone slate falls from the ceiling and then catapults victims onto a set of concealed spikes",
+        "a thin tripwire wire that shoots a crossbow mechanism attached to one end",
+        "an iron mask hanging on the wall that will spew black ooze from its mouth, pouring ooze creatures until disarmed",
+        "a golden door painted at the end of a narrow hallway, when entered the hallway closes and floods with toxic gas",
+        "the thick spider webs are the switch to collapse the roof directly above them",
+        "a trap spring under a wooden board will smash anything that steps on it to the ceiling above",
+        "a flurry of blades launches out of thin slits on the wall when anyone speaks out loud while standing in the right spot"
+    ]
+}

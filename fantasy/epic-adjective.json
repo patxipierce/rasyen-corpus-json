@@ -1,0 +1,19 @@
+{
+    "origin" : [
+        "elven",
+        "human",
+        "dwarven",
+        "halfling",
+        "orcish",
+        "abyssal",
+        "demonic",
+        "heavenly",
+        "gnomic"
+    ],
+    "magic-effect" : [
+        "enchanted",
+        "charmed",
+        "hexed",
+        "bewitched"
+    ]
+}

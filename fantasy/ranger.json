@@ -1,0 +1,39 @@
+{
+    "archetype" : [
+        "Archer",
+        "Beastshifter",
+        "Blade Dancer",
+        "Bloodhunter",
+        "Inquisitor Conclave",
+        "Kings Ranger",
+        "Nightstalker",
+        "Oakleaf",
+        "Primal",
+        "Servant",
+        "Sharpshooter",
+        "Slayer",
+        "Guardian",
+        "Sniper",
+        "Spell Gunner",
+        "Spellstrider Ranger",
+        "Supernaturalist",
+        "The Song",
+        "Ward of Amaras",
+        "Warden"
+    ],
+    "achievement" : [
+        "retrieved the herbal ingredients for an antidote before it was too late",
+        "captured and trained a bird of prey",
+        "climbed to the peak of a mountain",
+        "constructed their own bow",
+        "tracked down the cause of a blight afflicting the nearby forest",
+        "escorted some needy halflings to the nearest elf settlement"
+    ],
+    "incantation" : [
+        "Energy takes the form of the Ranger’s spirit animal and strikes",
+        "The caster grabs a stone into and with his will turns it’s potential into energy",
+        "The caster blows on a common stick turning it into pure magical energy"
+    ]
+}
+
+
