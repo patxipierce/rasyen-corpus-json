@@ -31,10 +31,16 @@
         "The starship reminds you of origami, where several high-tech materials layered together has been folded into a shape so complex that it allows space travel.",
         "Somehow staying together, this is a rusty, patched up excuse of a space bathtub that reeks of space goblins, even from the other side of a vacuum.",
         "Resembling an unoriginal cube, these beauties are known across the quadrant for their power and not their looks.",
-        "Known as a ”Gel Blimp“, this starship looks like a giant egg-shaped gel ant colony. Renown for their complete lack of privacy, the gel is edible and very nutritious.",
+        "Known as a ”Gel Blimp“, this starship looks like a giant egg-shaped gel ant colony. Renown for its complete lack of privacy, the gel is edible and very nutritious.",
         "Always resembling a symmetric complex rococo styled structure, covered in swirls and pinches these ships where once off-world mansions that were modified for space travel.",
         "Suspected to have fallen through a time rip from the far future, these ships are little more than spheres with modular platforms that shift places constantly.",
-        "A travelling fortress, this spaceship is neither fast nor discrete, but the looks of it do bring the word ”deadly“ into mind."
+        "A travelling fortress, this spaceship is neither fast nor discrete, but the looks of it do bring the word ”deadly“ into mind.",
+        "This spaceship looks like a cross between a pagoda tower and a rocket, the base level is engine rooms and machinery, while the top is reserved for speckles commanders.",
+        "Rudimentary but sturdy, this is vessel looks more like a ship than a spaceship, complete with a figurehead and laser-sails its a proud mix of romance and engineering.",
+        "An industrial era ship, with a warp engine that is literally half the bulk of the entire vessel, a huge pin-up girl has been painted on its starboard nacelle.",
+        "This spaceship reminds of a walnut, complete with metal wrinkles and an equatorial lip from which several antennas spike out to end in large propulsion nozzles.",
+        "What looks like a giant seashell, a conical spiral with no visible propulsion, its design is intended to ”screw“ into the fabric of space-time ripping through it.",
+        "Twin spherical heads joined like two eyes and ending in a series of spherical pods that compose the body of this spaceship, make it resemble a metal dragonfly with no wings.",
     ],
     "quirk" : [
         "Covered in billions of microscopic space-polyps, the outermost hull sucks in the vacuum ahead of it and releases debris leaving a comet like tail it behind itself.",
@@ -47,7 +53,9 @@
         "This spaceship seems to have been infused with some temporal distortion radiation, always displaying the place where it previously was instead of where it currently is.",
         "The ship is actually sentient, and has the biggest ego in the galaxy. It cannot recall how it was awakened but never fails to remind crewmen the importance of this singularity.",
         "It is not uncommon to find small pocket dimensions in these ships, most are stoic and unremarkable living quarters, the only problem is finding the same one twice.",
-        "The ship has been rumoured to have wandered into the ”Underspace“ and back. Bringing with it creatures of shadow and myth that appear and disappear mysteriously."
+        "The ship has been rumoured to have wandered into the ”Underspace“ and back. Bringing with it creatures of shadow and myth that appear and disappear mysteriously.",
+        "The ships propulsion system is so badly tuned and patched up that it leaves behind a trail of high grade radiation, making this ship the easiest to find in the system.",
+        "These ships are equipped with low-tech manual controls, needle gauges and switches, unfriendly to those unacquainted with the ship, but essential to those who master it."
     ],
     "hull": [
         "Adamantium",
@@ -116,7 +124,6 @@
             "Sun",
             "Moon",
             "Black",
-            "Challenge",
             "Rogue",
             "Justice",
             "Glorious",
@@ -349,6 +356,8 @@
             "Ben",
             "Bird",
             "Birthright",
+            "Challenge",
+            "Damsel",
             "Dog",
             "Dragon",
             "Dream",
@@ -365,18 +374,22 @@
             "Heritage",
             "Hopper",
             "Koi",
+            "Merchant",
             "Missioner",
+            "Monk",
             "Pathfinder",
             "Raider",
             "Raptor",
             "Settler",
             "Skipper",
+            "Soul",
             "Tesseract",
             "Tiger",
             "Tortoise",
             "Viper",
             "Walker",
-            "Warrior"
+            "Warrior",
+            "Wizard"
         ]
     }
 }
