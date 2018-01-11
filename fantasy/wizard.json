@@ -242,7 +242,7 @@
         "performed the rituals required to convert a regular cauldron into a suitable potion brewing vessel",
         "put on their robe and wizard hat"
     ],
-    "incantation" : [
+    "incantation" : {
         "abjurer" : [
             "Energy shoots forth from your magical wards, arcing towards your enemies"
         ],
@@ -270,5 +270,5 @@
         "universalist" : [
             "Magical energy swirls to form a geometric shape, from which the spell emerges"
         ]
-    ]
+    }
 }

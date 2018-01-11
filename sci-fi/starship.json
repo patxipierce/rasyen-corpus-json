@@ -11,24 +11,26 @@
             "rocket ship",
             "vessel",
             "merchant ship",
-            "interplanetary ship"
+            "interplanetary starship"
         ],
         "small": [
             "shuttle",
             "escape pod",
-            "shuttle craft"
+            "shuttlecraft",
+            "glider",
+            "shuttle"
         ]
     },
     "appearance" : [
         "The ship resembles a tree structure, where different fruit and flowers grow and bloom inside, they tell the pilot the ship's status and, sometimes, where its going.",
-        "Made of a material not unlike coral, allowing the starship to grow over time into complex structures, developing new chambers for the ship in time.",
+        "Made of a material not unlike coral, this starship grows into complex structures over time, developing new chambers that can be used for habitation.",
         "A mass of alien materials resembling bones, organs and skeletons compose this complicated starship which seems to have a pulse of its own.",
         "Resembling a large insect, this starship class evolves over time to have mantis like hooks, a giant beetle horn, or a bioluminescent mating organ.",
         "With the sleek and deadly design of an opaque metal shark, this vessel moves through space in a deadly silence and astonishing speed.",
         "Covered in parasites, symbiotic or otherwise, this spaceship is a mess of space barnacles, glitching self replicating ooze and tiny space-crabs that make excellent stew.",
         "The undead carcass of what once was a giant space-faring squid is covered in scars and old wounds, probably from when the beast was modified to accommodate a crew.",
         "This mushroom shaped vessel is soft on the outside, its interior has hexagonal chambers like a beehive, some which are filled with sweet edible spore honey.",
-        "The starship reminds you of origami, where several high-tech materials layered together has been folded into a shape so complex that it allows space travel.",
+        "The starship reminds you of origami, where several high-tech materials layered together have been folded into a shape so complex that it allows space travel.",
         "Somehow staying together, this is a rusty, patched up excuse of a space bathtub that reeks of space goblins, even from the other side of a vacuum.",
         "Resembling an unoriginal cube, these beauties are known across the quadrant for their power and not their looks.",
         "Known as a ”Gel Blimp“, this starship looks like a giant egg-shaped gel ant colony. Renown for its complete lack of privacy, the gel is edible and very nutritious.",
@@ -40,7 +42,7 @@
         "An industrial era ship, with a warp engine that is literally half the bulk of the entire vessel, a huge pin-up girl has been painted on its starboard nacelle.",
         "This spaceship reminds of a walnut, complete with metal wrinkles and an equatorial lip from which several antennas spike out to end in large propulsion nozzles.",
         "What looks like a giant seashell, a conical spiral with no visible propulsion, its design is intended to ”screw“ into the fabric of space-time ripping through it.",
-        "Twin spherical heads joined like two eyes and ending in a series of spherical pods that compose the body of this spaceship, make it resemble a metal dragonfly with no wings.",
+        "Twin spherical heads joined together followed by a series of spherical pods that compose this spaceship's body, making it resemble a metal dragonfly with no wings."
     ],
     "quirk" : [
         "Covered in billions of microscopic space-polyps, the outermost hull sucks in the vacuum ahead of it and releases debris leaving a comet like tail it behind itself.",
