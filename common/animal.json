@@ -59,8 +59,6 @@
     "hammerhead shark",
     "hamster",
     "hawk",
-    "heavy horse",
-    "heavy warhorse",
     "hedgehog",
     "horse",
     "hyena",
@@ -73,8 +71,6 @@
     "lamb",
     "leopard",
     "liger",
-    "light horse",
-    "light warhorse",
     "lion",
     "lizard",
     "llama",
@@ -136,5 +132,6 @@
     "whale",
     "wolf",
     "wolverine",
-    "worm"
+    "worm",
+    "zebra"
 ]
