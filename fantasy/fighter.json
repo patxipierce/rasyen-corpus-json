@@ -65,8 +65,15 @@
         "apprenticed under a blacksmith for a time",
         "learned the art of diplomacy",
         "read through Muin Wild’s “The Art of Conflict”",
+        "killed a black ooze by bashing it with his tankard",
         "defeated the galloping hordes",
         "defeated one hundred bad guys with swords"
+    ],
+    "quirk" : [
+        "gives cute name to all his weapons",
+        "carries a tankard everywhere, just in case",
+        "is in love with a legendary two-handed sword"
+
     ],
     "incantation" : [
         "Energy blasts from their bound weapon pointed at the enemy",

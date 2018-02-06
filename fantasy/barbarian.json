@@ -8,10 +8,10 @@
         "Eye of Gruumsh",
         "Path of Crash",
         "Path of Rhonas",
-        "Path of the Abomination",
-        "Path of the Battleborn",
-        "Path of the Dragon Shaman",
-        "Path of the Exile",
+        "Path of Abomination",
+        "Path of Battleborn",
+        "Path of Dragon Shaman",
+        "Path of Exile",
         "Path of the Fist",
         "Path of the Healer",
         "Path of the Ki Warrior",
@@ -29,15 +29,28 @@
         "Path of the Titanborn",
         "Path of the Warlord",
         "Path of the Warrior Shaman",
-        "The Scale"
+        "Scale"
     ],
     "achievement" : [
         "survived a night in the wild with only a spear",
         "captured a live bison with only a rope",
-        "swam up the river rapids naked",
+        "swam up the river rapids",
         "touched together the two ends of an iron rod with their bare hands",
         "turned the stone idol statue to face the sunrise",
-        "beat up a bear using only their hands and completely naked"
+        "beat up a bear using only their hands"
+    ],
+    "quirk" : [
+        "goes naked from the waist up and refuses all forms of shelter",
+        "collects bones to build himself a throne with them",
+        "adds the names of all his defeated foes to his own name",
+        "makes clothes out of the hides of his enemies, because “their anger keeps him warm”",
+        "loves to sing battle songs in solemn moments",
+        "turns a deep shade of purple when raging in battle",
+        "only speaks of himself as “the demon”",
+        "has a tattoo of himself that has a tattoo of himself, and can make them all dance",
+        "makes a new scar on himself to commemorate each victory",
+        "recites his own saga out loud every day",
+        "fights alone to avoid sharing the glory of victory with others"
     ],
     "incantation" : [
         "By sheer concentration of rage the power of anger manifests itself as magic energy",

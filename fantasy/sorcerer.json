@@ -83,6 +83,9 @@
         "constructed a wand",
         "fetched water and performed other menial tasks for an Arcane Master without using magic"
     ],
+    "quirk" : [
+        "doesn't know he has a patron, and thinks he is a wizard"
+    ],
     "incantation" : [
         "Energy surges forth from the casters breath",
         "Energy surges forth from the casters eyes",

@@ -242,6 +242,11 @@
         "performed the rituals required to convert a regular cauldron into a suitable potion brewing vessel",
         "put on their robe and wizard hat"
     ],
+    "quirk" : [
+        "wants to document every single detail about the creatures he encounters",
+        "is afraid and paranoid about triangles and multiples of three",
+        "thinks he ran out of memory and tries to forget things to be able to learn new ones"
+    ],
     "incantation" : {
         "abjurer" : [
             "Energy shoots forth from your magical wards, arcing towards your enemies"
