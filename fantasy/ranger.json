@@ -29,6 +29,11 @@
         "tracked down the cause of a blight afflicting the nearby forest",
         "escorted some needy halflings to the nearest elf settlement"
     ],
+    "quirk" : [
+        "always hunts his food, but keeps track of what he ate to keep the balance",
+        "always wears green, and refuses to wear any other color",
+        "has forgotten basic etiquette, and never says, hello, bye or thank you"
+    ],
     "incantation" : [
         "Energy takes the form of the Ranger’s spirit animal and strikes",
         "The caster grabs a stone into and with his will turns it’s potential into energy",

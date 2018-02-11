@@ -61,6 +61,9 @@
         "destroyed a relic belonging to a rival patron",
         "started a cult"
     ],
+    "quirk" : [
+        "will only speak of himself in plural, even when he is alone"
+    ],
     "incantation" : [
         "Energy shimmers with iridescent colors and showers enemies with sparks of glitter",
         "Energy is cast out of a void that opens to deliver magic powers to the caster",
