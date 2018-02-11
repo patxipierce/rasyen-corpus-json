@@ -52,7 +52,7 @@
             "the gas clouds from the erupting volcanoes here make this place a harsh environment to survive in, except for magma elementals, they love it here"
         ],
         "F": [
-            "this planet has a life form that can connect neurologically with others of its kind, and it reproduces so quickly it can turn into a mega-fauna overnight"
+            "this planet has a life form that can connect neurologically with others of its kind, and it reproduces so quickly it can evolve into a mega-fauna overnight"
         ],
         "G": [
             "a being called a ”Symbiape“ lives here, it can deconstruct into tiny single-minded monkey like creatures, or merge with others to form a hyper intelligent being"
@@ -149,27 +149,35 @@
             "a middle aged proto-Earth that is still in formation and has a viscous substance at its core"
         ],
         "G": [
-            "an old proto-Earth-sized planet with an unstable core"
+            "an old proto-Earth-sized planet with an unstable core",
+            "an ancient proto-Earth with a volcanic core with quakes that occur every few minutes"
         ],
         "H": [
-            "a harsh desert world with an oxygen/argon atmosphere"
+            "a harsh desert world with an oxygen/argon atmosphere",
+            "a brightly lit planet where the sun has scorched the surface"
         ],
         "I": [
-            "a gas super-giant with dense rings composed of space dust and mineral debris that siphon slowly into the planet"
+            "a gas super-giant with dense rings composed of space dust and mineral debris that siphon slowly into the planet",
+            "a super-giant with rings that shift axis slightly when its dual orbit changes stars",
+            "a gas super-giant with dense fuzzy looking rings caused by mass gravity fluctuations coming form the planet"
         ],
         "J": [
-            "a conventional gas giant composed mostly of hydrogen and helium"
+            "a conventional gas giant composed mostly of hydrogen and helium",
+            "a gas giant in its prime, with a hexagonal storm on one of its poles"
         ],
         "K": [
-            "a barren world with no native life and no breathable atmosphere, but has reasonably tolerable gravity"
+            "a barren world with no native life and no breathable atmosphere, but has reasonably tolerable gravity",
+            "a world of rocks and no atmosphere, but it has just the right amount of gravity"
         ],
         "L": [
-            "covered with an array of primitive ecosystems"
+            "covered with an array of primitive ecosystems",
+            "a world with several million native primitive species"
         ],
         "M": [
             "covered with glowing fungi and fern-like plants with an oxygen/nitrogen atmosphere",
             "covered with giant tree sized mushrooms",
-            "covered in a dense forest, that has only one kind of tree in it"
+            "covered in a dense forest, that has only one kind of tree in it",
+            "rich in habitats and inhabitants, coexisting in perfect harmony"
         ],
         "N": [
             "a barren and mountainous place",
@@ -188,12 +196,15 @@
             "a sphere covered in snow and ice, storms roar over a frozen ocean" 
         ],
         "Q": [
-            "a continually changing environment caused by a peculiar orbit"
+            "a continually changing environment caused by a peculiar orbit",
+            "covered in seas that boil and evaporate, and then freeze depending on the planets orbit"
         ],
         "R": [
+            "a planet that reflects almost no light, and could be confused with the blackness of space by the naked eye",
             "a planetary body that does not orbit a star but drifts freely in space and does not support life"
         ],
         "S": [
+            "a gas giant large enough to have rings composed of ice, dust and the odd asteroid",
             "a large gas giant with rings composed of gasses and space debris"
         ],
         "T": [
@@ -206,7 +217,8 @@
             "a humongous gas giant with elegant patters made of its various component gasses"
         ],
         "X": [
-            "a younger astronomical body that emits lethal amounts of radiation, so much in fact that the planet is slowly turning into cosmic dust"
+            "a younger astronomical body that emits lethal amounts of radiation, so much in fact that the planet is slowly turning into cosmic dust",
+            "a young world with radiation levels so high it cannot be visited without extreme protection"
         ],
         "Y": [
             "a body with a toxic atmosphere and thermeonic radiation",
@@ -217,7 +229,8 @@
             "a surface covered in sharp carbon crystals, with molecule thin sharp edges that spike out in every direction"
         ],
         "Z": [
-            "an ancient celestial body with an unbreathable atmosphere and extreme temperatures that go from absolute zero, to 500 Kelvin every 18 hours"
+            "an ancient celestial body with an unbreathable atmosphere and extreme temperatures that go from absolute zero, to 500 Kelvin every 18 hours",
+            "an old planet with scars of meteor blasts and a toxic atmosphere, it fluctuates between freezing and a burning hell twice per cycle"
         ]
     }
 }

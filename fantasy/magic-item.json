@@ -576,7 +576,7 @@
             ["Bouquet Staff","Every day up to four flowers grow from the top of the staff, although there are never more than seven at one time. On command the wielder can cause one of the flowers to explode in a plume of pollen and colour, casting the “Colour Spray” spell."]
         ],
         "wand": [
-            ["Wand of Bones","When cast on a creature that the caster can see within 60 feet, the caster may cause them to grow horns, fangs, nails or a shell for up to 1 hour, or until the caster choose to end it."]
+            ["Wand of Bones","When cast on a creature that the caster can see within 60 feet, the caster may cause them to grow horns, fangs, nails or a shell for up to 1 hour, or until the caster chooses to end it."]
         ],
         "weapon": [
             ["Scimitar of growth","When a creature is successfully struck with this sword vines and branches appear underfoot, entangling the opponent. After a short while all plants produced by the blade turn to dust and crumble away."],
@@ -706,7 +706,7 @@
             ["Platonic Ring","A ring that gives you the ability to shape-shift into a small Platonic solid of common material, no action can be taken as a solid."],
             ["Focusing Ring","The digit on which this ring is worn can be viewed in extremely high definition from a great distance."],
             ["Good Luck ring","Gives your enemies good luck! "],
-            ["Ring of Fire Detection","becomes warm when placed into Fire."],
+            ["Ring of Fire Detection","Becomes warm when placed into Fire."],
             ["Ring of First Impression","Wearing the ring will make you able to perform a perfect handshake with the hand wearing it."],
             ["Ring of Stoneskin","Turns your skin, muscles, and organs into stone! Character is now a stationary statue. Can’t be reversed until someone takes the ring off."]
         ],

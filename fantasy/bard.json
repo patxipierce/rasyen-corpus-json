@@ -1,6 +1,6 @@
 {
     "archetype" : [
-        "Bartender",
+        "Bartender archetype",
         "College of Boons",
         "College of Compulsion",
         "College of Death's Song",
@@ -22,9 +22,9 @@
         "College of the Gambler",
         "College of the Toréador",
         "College of the Wilds",
-        "Sunsinger",
-        "The Edge",
-        "Troubadour"
+        "Sunsinger archetype",
+        "Edge archetype",
+        "Troubadour archetype"
     ],
     "achievement" : [
         "composed a sonata in the style of a famous composer",
@@ -32,12 +32,13 @@
         "performed at every inn in the capital",
         "recited the epic tale of Gray Wolf from memory",
         "sat through the entire 28 hour “Ode to Warm Milk”",
-        "got a groupie"
+        "has a groupie"
     ],
     "quirk" : [
         "makes collectable cards of each new species he encounters and trades them with other bards",
         "writes his initials everywhere, hoping it will bring him fame",
-        "hums one of those annoying repetitive songs constantly"
+        "hums one of those annoying repetitive songs constantly",
+        "is always horny, but prefers the term “Hypersexual” instead"
     ],
     "incantation" : [
         "Energy manifests from thin air a foot in front of their instrument as they play",
