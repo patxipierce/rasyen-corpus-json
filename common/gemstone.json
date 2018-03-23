@@ -1,0 +1,81 @@
+{
+
+    "name" : [
+        "alexandrite",
+        "aquamarine",
+        "diamond",
+        "emerald",
+        "opal",
+        "pearl",
+        "ruby",
+        "sapphire",
+        "spinel",
+        "topaz"
+    ],
+    "type" : {
+        "stonelike" : [
+            "rough",
+            "matte",
+            "glossy",
+            "polished"
+        ],
+        "crystaline" : [
+            "opaque",
+            "translucent",
+            "misty"
+        ]
+    },
+    "size" : [
+        "fine",
+        "tiny",
+        "small",
+        "medium",
+        "large",
+        "massive"
+    ],
+    "shape" : [
+        "round",
+        "oval",
+        "triangular",
+        "square",
+        "rectangular",
+        "trapezoidal",
+        "heart shaped",
+        "pentagonal",
+        "hexagonal",
+        "octagonal",
+        "cushion shaped",
+        "trillion shaped",
+        "star shaped",
+        "drop shaped",
+        "pear shaped",
+        "marquise shaped",
+        "kite shaped",
+        "shield shaped",
+        "asymmetric",
+        "unworked"
+    ],
+    "cut" : [
+        "cabochon cut",
+        "point cut",
+        "table cut",
+        "single cut",
+        "brilliant cut",
+        "chequerboard cut",
+        "step cut",
+        "rose cut",
+        "princess cut",
+        "cameo cut",
+        "uncut",
+    ],
+    "pattern" : [
+        "striated",
+        "banded",
+        "marbled",
+        "speckled",
+        "dendritic",
+        "graded",
+        "criss-crossed",
+        "iridescent"
+    ]
+}

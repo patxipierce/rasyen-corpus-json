@@ -555,7 +555,7 @@
         "jewel": [
             ["Amulet of the Deep","When a triton attuned themselves to this amulet they can increase either their strength, constitution or charisma scores by 1 and increase their swimming speed by 10 ft. Additionally once per long rest the character can cast “Conjure Elemental” (Air or Water only) at will."],
             ["Amulet of Rot","This amulet will cause necrotic damage, or heal any undead creature that looks into its central gem."],
-            ["Crown of the Goblin King","A crown made of tin with bone ornaments. It will grant the user the ability to cause fear in all goblinoid creatures that can see the crown. When the bearer issues a command to a frightened creature they are charmed by its power and must obey immediately to his bidding."],
+            ["Crown of the Goblin King","A crown made of tin with bone ornaments. It will grant the user the ability to cause fear in all goblinoid creatures that can see the crown. When the bearer issues a command to a frightened goblinoid they are charmed by its power and must obey immediately to his bidding."],
             ["Amulet of Extra Amulet Slot","This amulet allows you to gain the benefit from two magical amulets rather than one. It cannot be further enchanted."]
         ],
         "potion": [
