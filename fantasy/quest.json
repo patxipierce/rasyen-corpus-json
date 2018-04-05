@@ -82,7 +82,7 @@
         "A local band of sellswords is famous for failing every mission they've ever had. They need someone to boost their reputation back to business.",
         "A sign appeared hanging from a noose on a statue one morning, “A thousand gold for the head of the mayors daughter.” needless to say the mayor is terrified.",
         "A band of kobolds stole a sacred chalice from the temple of peace, the priest will pay to get it back, but will not pay a penny if any blood is shed.",
-        "A spirit of the earth made a deal with the mountain folk, but they failed their part of the bargain and will have to move if the earthquakes don’t stop.",
+        "A spirit of the earth made a deal with the mountain folk, but they didn't keep their part of the bargain and soon will have to move if the earthquakes don’t stop.",
         "The mist lands are a series of islands each engulfed in a magical fog. Getting from one town to the next can only be done by not wanting to get there.",
         "The islanders say their town moved off from the mainlands because one morning they all accidentally willed “to be somewhere else” at the same time.",
         "A stone giant lost his pet cockatrice, and it has been terrifying the countryside.",
@@ -105,7 +105,7 @@
         "A plant with magical properties has bloomed, being the last known specimen of its kind it must be taken to the sage in the city, so he can perpetuate it.",
         "A quarantine has been set on all those with demonic blood, as they have recently begun being contacted and then possessed by an infernal spirit.",
         "The king of the centaurs organized a tournament to choose the next king, the centaurs are in chaos because the joust was won by a polymorphed human fighter.",
-        "A shipment of steel to the weapon smith has gone missing. The smith has promised to forge anyone who can recover it a fine weapon as a reward.",
+        "A shipment of steel to the weapon smith has gone missing. The smith has promised to forge a fine weapon as a reward for anyone who can recover it.",
         "A new restaurant opens in town, it's all the rave as the dishes will magically change the colour of your skin for a few hours. One day however the effects turn permanent.",
         "A large lake, boat, boat house, and even a boatman have suddenly appeared in the middle of the road crossing in the grasslands. All he asks for crossing fee is a good joke.",
         "The mage-king has suddenly announced an alliance with the dead and replaced his guard with tyrannical undead monsters.",
@@ -126,14 +126,14 @@
         "A clan of stone giants rule the mountain pass and prevent anyone from crossing it, if someone could find a way to bargain passage with them he would become rich indeed.",
         "A group  of strangers is sharing camp with you, you don’t remember how you met or what happened last night, but you all have a terrible hangover.",
         "A tree has magically awoken in the towns main square, and has decided to run for mayor in the towns elections.",
-        "A bard who cant rhyme needs help to woo the daughter of the miller.",
+        "A bard who cant rhyme needs help to woo the millers daughter.",
         "An assassination attempt went badly for the assassins when they were too late to discover that their target was a wereboar.",
         "A new type of “poison” has hit the black market, it is said to be irresistible to the undead, a splash on the skin and the non-living do the dirty work.",
         "A mining town in the hills has always been a human and dwarf joint endeavour, but something happened and now both sides are getting ready to war each other.",
         "Mushroom people are kidnapping travellers and using them to make more of their kind. Those who escape have mushrooms growing all over their body.",
         "A kind of giant mushroom from the underdark is thriving in the swamp lands, on the new moon its spores give whoever breathes them strange powers.",
         "An anthill the size of a castle has been rising for months nearby, and some of the giant ants have started taking livestock from the town.",
-        "A recently discovered brandy cellar lets you travel to the year the brandy was sealed after drinking it, you can only remain in the past while you’re drunk.",
+        "A recently discovered brandy cellar lets you travel in time to the year the brandy was sealed, the catch is that you can only remain in the past while you’re drunk.",
         "Every day the bakery by the city gates finds new bee hives in different parts of his shop, a good omen at first, but now its hard to tell the bakery from the hive.",
         "A halfling barbarian herding a brood of giant termites has taken over a lumber town in the mountains, the termites have finished the town and now are coming to the city.",
         "A week ago a giant wasp escaped the wizard tower and terrorized the population, it started making a nest by the paper mill, and soon the problem will be a lot worse.",
@@ -152,7 +152,7 @@
         "A socially popular dragon, comes by every five years to play chess with the champion of the town. The champion died of age and the dragons appointment is near.",
         "The slum of the coastal capital is made of several thousand boats all tied together, and every time the ocean tides brings it by the coast a town gets raided.",
         "Years ago child was wounded by accident and disappeared when he followed the hunters into the woods. Recently those same hunters have been found dead.",
-        "A town far away from the coast had all the water in the wells turned to brine, at night you can hear someone crying down the well.",
+        "A town far away from the coast had all the water in the wells turned to brine, and some say that at night you can hear someone crying down the well.",
         "At a local social party someone was killed, the suspects are the buckler, the colonel, Ms. and Mr. Red. They are being held at the murder scene until someone can solve it.",
         "A red thread was found crossing fields mountains and forests. Anyone who cuts it mysteriously dies and the thread is found repaired the next morning.",
         "A famous trickster died and in his will put up a bounty for himself. A short time later he has risen from the grave and doing all kind of undead mischief.",
@@ -223,7 +223,9 @@
         "Several caravans of gnomes have arrived to town because of rumors of a gnome gathering, when the news was found to be a prank, they decided to have the convention anyway.",
         "Two barbarians have quarrelled for ages about who is stronger, but recently their careless and drunken brawling has started to affect the town.",
         "A Meister needs someone to protect the temple against the growing plague of kobolds that have made their home in its ancient tunnels.",
-        "A mimic disguised as a chest was unintentionally used to store powerful tome of spells, being this an exceptionally intelligent mimic, he has now become a Wizard!"
+        "Tavern marry making has ceased since the town bard fell in love with a woodland dryad, while the dryad is lovesick for a sleeping treant that ignores her.",
+        "A mimic disguised as a chest was unintentionally used to store powerful tome of spells, being this an exceptionally intelligent mimic, he has now become a Wizard!",
+        "A senile arch-mage is hoarding all the bags of holding in the world. After storing a powerful amulet in such a bag he forgot all about it, and sold it by mistake to a novice adventurer."
     ],
     "legendary": [
         "The worlds barbarian tribes are gathering to to elect their war god’s new avatar. It will be a trial by non-magical combat.",
@@ -264,6 +266,9 @@
         "The good king has died and must be taken to the hall of kings before a new king can be found. Famously, no one ever returns from the so called “kings last march.”",
         "The last winter solstice night refused to end. Crops have failed, famine has started and creatures made of darkness have appeared everywhere.",
         "The divine temple has announced they seek the new avatar, the prophecy foretells of one who can return the Gem of Virtue to its true owner.",
-        "Two mind flayer swarms grow too close together, as their elder brains attempt to establish dominance the link between illithids weakens and many go rogue, plaguing the capital."
+        "Two mind flayer swarms grow too close together, as their elder brains attempt to establish dominance the link between illithids weakens and many go rogue, plaguing the capital.",
+        "The god of justice had demanded three mortals witness a trial to a demi-god that betrayed the gods, but no one knows where or when the hearing will take place.",
+        "Back from travelling the astral plane, the Mad God has returned to the world. Now things are getting weird on a cosmic scale and no one knows what to do.",
+        "The Tarrasque has emerged from under the Slumbering mountain, the continent will face chaos if nothing is done to control the legendary beast."
     ]
 }

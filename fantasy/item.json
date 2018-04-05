@@ -16,6 +16,7 @@
         "anklet",
         "armband",
         "pin",
+        "sceptre",
         "brooche"
     ],
     "clothing": [
@@ -29,13 +30,11 @@
         "pair of gloves",
         "pair of shoes",
         "set of trousers",
-        "set of earmuffs",
-        "bag",
-        "sack",
-        "backpack"
+        "set of earmuffs"
     ],
-    "instruments": [
+    "instrument": [
         "accordion",
+        "gong",
         "horn",
         "drum",
         "trumpet",
@@ -43,26 +42,34 @@
         "lute",
         "tuba",
         "trombone",
+        "trumpet",
         "pan pipe",
         "bagpipe",
         "ocarina",
-        "piano"
+        "piano",
+        "harp",
+        "tambourine"
     ],
-    "tools": [
+    "tool" : [
         "hinge",
         "lock",
+        "sconce",
         "key",
         "nails",
         "bellows",
+        "bell",
+        "cow bell",
         "broom",
         "small anvil",
         "fishing hook",
         "fishing pole",
         "fishing net",
         "hammer",
+        "letter opener",
         "lockpick",
         "pitchfork",
         "hoe",
+        "horseshoe",
         "rake",
         "saw",
         "wedge",
@@ -77,18 +84,33 @@
         "lantern",
         "journal",
         "book",
+        "diary",
+        "sundial",
+        "water clock",
+        "hourglass",
+        "paper weight",
         "scroll",
         "scroll case",
         "quill",
-        "candlestick",
         "torch",
         "mirror",
         "rope",
         "shackle",
         "yoke",
+        "brazier",
         "map",
-        "compass",
-        "urn"
+        "hand mirror",
+        "compass"
+    ],
+    "container" : [
+        "box",
+        "chest",
+        "bag",
+        "sack",
+        "backpack",
+        "pouch",
+        "haversack",
+        "satchel"
     ],
     "kitchen": [
         "pot",
@@ -97,6 +119,8 @@
         "tankard",
         "bowl",
         "cup",
+        "mug",
+        "tea cup",
         "flagon",
         "fork",
         "spoon",
@@ -118,8 +142,23 @@
         "jack-in-a-box",
         "puzzle cube",
         "kite",
+        "chess set box",
+        "music box",
         "model ship",
         "ball",
         "lead soldier"
+    ],
+    "worship" : [
+        "censor",
+        "chalice",
+        "ceremonial dagger",
+        "ceremonial knife",
+        "ceremonial mace",
+        "ceremonial sword",
+        "ceremonial staff",
+        "holy symbol",
+        "unholy symbol",
+        "reliquary",
+        "urn"
     ]
 }

@@ -29,20 +29,38 @@
         "Circle of the Sun",
         "Circle of the Wildlife",
         "Prehistoric Circle",
-        "The Voice"
+        "Voice"
     ],
     "achievement" : [
-        "learned the hunter’s last rites and performed them after slaying a bull elk",
-        "allowed a bird to nest in your cupped hands",
+        "learned the hunter’s way and performed the rite after slaying a bull elk",
+        "allowed a bird to nest in their cupped hands",
         "cultivated the notoriously fickle winter ivy without using magic",
         "earned the trust and friendship of a myconid colony",
         "returned a defiled place to a state of natural health",
-        "beat up a lumberjack"
+        "beat up a lumberjack",
+        "lived on top of a large tree without descending for a full winter",
+        "committed to memory the druids oath which take four full days to recite",
+        "is believed to be the avatar of a nature god by a tribe of forest gnomes",
+        "removed a terrible illness from nature and carries its marks",
+        "cured the famine by casting rain over the land",
+        "has been adopted by a tribe of apes",
+        "predicted the early winter freeze and saved the farmers from starving"
     ],
     "quirk" : [
         "refuses to deal in metal currency and only barters with rare seeds and mushrooms",
-        "just wants to be a tree, so he moves as little as possible"
-        
+        "just wants to be a tree, so he moves as little as possible",
+        "collects rare endangered plants to repopulate them",
+        "keeps a list of every tree in the forest for the sake of maintaining balance",
+        "wants to build a nature-themed park and is known for being progressive",
+        "would rather kill an elf than an elephant",
+        "thinks they are the avatar of the god of nature",
+        "will attempt to purge any malice or ailing with fire",
+        "lost a bet with the fairy queen and must serve her till death",
+        "collects leaves and stones and sticks “for research”",
+        "has green blood and carries the marks of the plague",
+        "will only wield weapons and armor made of wood",
+        "keeps plants growing in is pockets and wears a cloak of grass",
+        "has way more fun in chimpanzee form than its healthy"
     ],
     "incantation" : [
         "Energy shaped like a wild animal appears",

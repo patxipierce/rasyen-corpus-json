@@ -75,16 +75,33 @@
         "Winter Soul",
         "Worldspirit"
     ],
+    "power-source" : [
+        "was chosen",
+        "must reaffirm their faith with every dream"
+    ],
     "achievement" : [
         "traced the history of the dragon bloodlines",
         "inscribed on their skin the tattoos of magic channelling",
         "read the Manual of the Planes",
         "wrote thesis on each of the four natural and seven supernatural elements",
-        "constructed a wand",
-        "fetched water and performed other menial tasks for an Arcane Master without using magic"
+        "constructed a wand from their own hair",
+        "used to fetch water and performed other menial tasks for an arcane master",
+        "was born knowing the words for several incantations",
+        "dreamed with an out of body experience and woke up in a different body",
+        "had a vision, stepped out of the hut and never looked back"
     ],
     "quirk" : [
-        "doesn't know he has a patron, and thinks he is a wizard"
+        "suspects their soul is in another body, and their body belongs so someone else",
+        "learns new magic by dreaming and solving strange enigmas",
+        "believes the dream world to be the true and only one",
+        "talks to the moon and asks for advice",
+        "sleepwalks so badly they often awake in strange places",
+        "has one personality for every power they gain",
+        "talks in riddles because they are unsure of what they are saying",
+        "casts spells by talking backwards",
+        "has wrong premonitions all the time, but always has blind trust in them",
+        "has constant visions of a place they've never been to",
+        "keeps a stone with them that they claim is their soul mate"
     ],
     "incantation" : [
         "Energy surges forth from the casters breath",

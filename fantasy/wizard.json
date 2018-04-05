@@ -239,13 +239,27 @@
         "mastered the process of growing crystals",
         "read through all seventy-seven tomes of the Arcane Foundations",
         "learned the fundamentals of life, death, undeath, and false life",
-        "performed the rituals required to convert a regular cauldron into a suitable potion brewing vessel",
-        "put on their robe and wizard hat"
+        "converted a regular cauldron into a suitable potion brewing vessel",
+        "put on their robe and wizard hat and went to see the world",
+        "got expelled from wizard school, and readmitted by magic",
+        "cast a bunny to the astral place and brought it back",
+        "mastered the process of potion brewing",
+        "inherited a fake magic shop, and turned it into a real one",
+        "correctly brewed a very potent love potion",
+        "crafted their own wand out of wood from a lighting struck tree"
     ],
     "quirk" : [
         "wants to document every single detail about the creatures he encounters",
         "is afraid and paranoid about triangles and multiples of three",
-        "thinks he ran out of memory and tries to forget things to be able to learn new ones"
+        "thinks he ran out of memory and tries to forget things to be able to learn new ones",
+        "has a thing for arcane geometry and loves to scribble pentagrams everywhere",
+        "makes food with magic and then casts magic by eating food",
+        "really learned magic to impress girls, with flowers, bunnies and so on",
+        "thinks robes, moons and stars are the fashion of the future",
+        "will often borrow other peoples things to use as spell components",
+        "was magically aged when an experiment went wrong at the academy",
+        "calls all other forms of non-arcane magic “fake magic”",
+        "secretly wants to breed clones of themselves to be able to research faster"
     ],
     "incantation" : {
         "abjurer" : [
@@ -267,7 +281,7 @@
             "Magic spawns two or three illusory copies which resolute to one real very real effect"
         ],
         "necromancer" : [
-            "Energy in the shape of a skull screaming as it flies toward the target"
+            "Energy in the shape of a skull screaming as it flies toward its target"
         ],
         "transmutator" : [
             "Energy transforms from its surroundings and converges at the spells target"

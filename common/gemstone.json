@@ -1,26 +1,44 @@
 {
 
-    "name" : [
-        "alexandrite",
-        "aquamarine",
-        "diamond",
-        "emerald",
-        "opal",
-        "pearl",
-        "ruby",
-        "sapphire",
-        "spinel",
-        "topaz"
-    ],
+    "name" : {
+        "opaque" : [
+            "opal",
+            "jade",
+            "obsidian",
+            "lapis lazuli",
+            "onyx",
+            "jasper",
+            "carnelian",
+            "malachite"
+        ],
+        "crystaline" : [
+            "spinel",
+            "amber",
+            "garnet",
+            "alexandrite",
+            "diamond",
+            "scarlet emerald",
+            "emerald",
+            "quartz",
+            "amethyst",
+            "aquamarine",
+            "pink ruby",
+            "ruby",
+            "peridot",
+            "sapphire",
+            "topaz"
+        ]
+    },
     "type" : {
-        "stonelike" : [
+        "opaque" : [
             "rough",
             "matte",
             "glossy",
             "polished"
         ],
         "crystaline" : [
-            "opaque",
+            "foggy",
+            "intricate",
             "translucent",
             "misty"
         ]
@@ -66,16 +84,26 @@
         "rose cut",
         "princess cut",
         "cameo cut",
-        "uncut",
+        "uncut"
     ],
-    "pattern" : [
-        "striated",
-        "banded",
-        "marbled",
-        "speckled",
-        "dendritic",
-        "graded",
-        "criss-crossed",
-        "iridescent"
-    ]
+    "quality" : {
+        "opaque" : [
+            "striated",
+            "banded",
+            "marbled",
+            "pure",
+            "spotted",
+            "dendritic",
+            "graded",
+            "criss-crossed",
+            "iridescent"
+        ],
+        "crystaline" : [
+            "stripped",
+            "sparkly",
+            "glittery",
+            "clear",
+            "speckled"
+        ]
+    }
 }
