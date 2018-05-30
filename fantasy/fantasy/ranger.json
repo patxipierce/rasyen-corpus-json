@@ -1,0 +1,64 @@
+{
+    "archetype" : [
+        "Archer ranger",
+        "Beastshifter ranger",
+        "Blade Dancer ranger",
+        "Bloodhunter ranger",
+        "Inquisitor Conclave ranger",
+        "Kings ranger",
+        "Nightstalker ranger",
+        "Oakleaf ranger",
+        "Primal ranger",
+        "Servant ranger",
+        "Sharpshooter ranger",
+        "Slayer ranger",
+        "Guardian ranger",
+        "ranger Sniper",
+        "Spell Gunner ranger",
+        "Spellstrider ranger",
+        "Supernaturalist ranger",
+        "ranger of the Song",
+        "Ward of Amaras ranger",
+        "Warden ranger"
+    ],
+    "achievement" : [
+        "retrieved the herbal ingredients for an antidote before it was too late",
+        "captured and trained a bird of prey",
+        "climbed to the peak of the Unruly mountain",
+        "constructed their own bow",
+        "tracked down the cause of a blight afflicting the nearby forest",
+        "escorted some needy halflings to the nearest elf settlement",
+        "ran with the buffalo heard until he was accepted as one of them",
+        "taught a tribe of apes to use sign language",
+        "mercifully killed the crazed were-bear that was stalking the land",
+        "collapsed the gold mines that were polluting the wilderness",
+        "saved the dire wolf cubs from starving when their mother was killed",
+        "survived alone in the caves of madness for ten moons",
+        "successfully tracked a salmon upriver",
+        "made peace possible between the centaur tribes"
+    ],
+    "quirk" : [
+        "always hunts his food, but keeps track of what he ate to keep the balance",
+        "always wears green, and refuses to wear any other color",
+        "has forgotten basic etiquette, and never says, hello, bye or thank you",
+        "wears special boots with soles that point backwards to confuse trackers",
+        "talks to any inanimate thing as if it could understand",
+        "hunts by night and sleeps by day, like the wild cats do",
+        "thinks of the wilderness as a garden that bust be tended and protected",
+        "goes hunting naked every new moon",
+        "gives star signs to all the critters of the wild",
+        "loves music, and sneaks into the tavern the nights the bard is playing",
+        "is obsessed with regrowing the wilderness back to its natural splendour",
+        "cant decide on a spirit animal and changes once a week",
+        "distrusts all humanoids and only feels at ease alone with nature",
+        "is madly in love with a elusive dryad, and seeks to marry her",
+        "as an infant was orphaned by a tiger and adopted by a pack of wolves"
+    ],
+    "incantation" : [
+        "Energy takes the form of the Ranger’s spirit animal and strikes",
+        "The caster grabs a stone into and with his will turns it’s potential into energy",
+        "The caster blows on a common stick turning it into pure magical energy"
+    ]
+}
+
+

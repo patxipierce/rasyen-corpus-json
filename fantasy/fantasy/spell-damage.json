@@ -1,0 +1,64 @@
+{
+    "fire" : [
+        "Your bolt of fire singes their armor (burning cloth, blackening leather, discoloring metal)",
+        "A tiny bead of fire explodes on contact",
+        "Showers them with red sparks",
+        "Your attack leaves behind a billowing trail of smoke",
+        "A fast-travelling meteor of flame soars from the sky towards the enemy.",
+        "Your flames leave blisters and cracked skin in its wake",
+        "Your fire blackens the enemy’s flesh"
+    ],
+    "cold" : [
+        "You freeze the moisture in the air into icy daggers that fall onto your enemy",
+        "You freeze the water in their blood to damage them",
+        "Their skin turns blue and numb",
+        "You literally hurl a snowball at them.",
+        "Your spell leaves them covered in a layer of frost",
+        "A buildup of ice covers where your spell hit. (it’s easily shattered once they move, though)",
+        "A blast of icy wind and rain leaves them shivering."
+    ],
+    "thunder" : [
+        "A crack of thunder pummels your foe",
+        "A high-pitched, deafening shriek focuses itself on the target",
+        "A thin trail of blood races from the foe’s ears from a sound no one else can hear",
+        "The enemy falls to their knees cupping their hands over their ears, gritting their teeth",
+        "You buffet the target with waves of thunderous sound",
+        "The ground shakes with the force of your spell. Brittle glass objects nearby shatter."
+    ],
+    "lightning" : [
+        "Lightning comes from the sky to smite your foe",
+        "You all smell the faint odor of ozone before a bright bolt of lightning streaks toward the target of your spell",
+        "Before your enemy can blink they are showered in electrical sparks followed by crippling pain",
+        "The enemy’s back stiffens as the powerful current of lightning surges through them",
+        "Your attack leaves a permanent web of lightning shaped burns all over one side of their body",
+        "Your blast of lightning causes their skin to rupture as it travels through their body"
+    ],
+    "acid" : [
+        "Your acid sizzles as it burns a new, unnatural color into their skin",
+        "The attack melts their flesh, leaving them permanently disfigured at the site of the spell",
+        "Your spell’s acid causes blue fire to burn where it hit their skin, and bleaches their armor and belongings",
+        "A rancid smell fills the foe’s nostrils as the acid bubbles on their bare skin, burning through the simple cloth of their shirt."
+    ],
+    "poison" : [
+        "You spew a poisonous cloud from your mouth at your opponent",
+        "A spectral viper or insect is flung at the opponent, biting them and filling them with magical venom",
+        "Your index and middle finger each grow a poisonous fang which you sink into your opponent’s arm (melee range spell attacks only)",
+        "The enemy’s mouth fills with a foul tasting liquid which forces its way down their throat"
+    ],
+    "necrotic" : [
+        "Your target’s flesh bubbles and boils as a black ichor sputters from the spell’s origin",
+        "The foe’s flesh festers with magical disease as boils and wounds quickly cover the affected area",
+        "A skeletal hand wriggles free from beneath the earth, flying towards the target",
+        "An incorporeal undead shrieks as it flies from your finger toward the enemy to deliver the spell’s effect",
+        "Black energy swirls around your arm before launching towards the enemy as if it had a life of its own",
+        "Your iridescent blue magic enters the target’s body and afflicts their soul, making them momentarily dazed as their eyes glaze over."
+    ],
+    "radiant" : [
+        "A holy light shines from the skies to harm your target, regardless of time of day or obstructions",
+        "A halo of radiant energy surrounds your head and blinds the target as they gaze upon it",
+        "Enemies that aren’t of your alignment hear the whispers of your deity moments before being enveloped in a blinding white light",
+        "The foe’s eyes and mouth emit warm light and they howl in pain",
+        "A blade of radiant energy slashes through the victim, leaving a trail of blinking motes of light in its wake",
+        "The enemy’s skin blisters from the raw positive energy surging through them"
+    ] 
+}

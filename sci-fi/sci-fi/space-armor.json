@@ -1,0 +1,24 @@
+{
+    "light" : [
+        "carbon fiber suit",
+        "carbon nanotube skin suit",
+        "non-Newtonian robe",
+        "hardlight harness",
+        "gravity displacement jacket",
+        "shock absorbent vest",
+        "energy dissipating cloth suit",
+        "zero-g jumpsuit",
+        "spacewalk skin suit"
+    ],
+    "heavy" : [
+        "power armor",
+        "reinforced polymer breastplate",
+        "ceramic plate armor",
+        "adamantine alloy armor",
+        "hardlight plated armor",
+        "crystal carbon plate armor",
+        "carbon plate armor",
+        "heavy-duty combat armor",
+        "neutron field armor"
+    ]
+}

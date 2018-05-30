@@ -1,0 +1,117 @@
+{
+
+    "name" : {
+        "opaque" : [
+            "opal",
+            "jade",
+            "obsidian",
+            "lapis lazuli",
+            "onyx",
+            "jasper",
+            "carnelian",
+            "malachite"
+        ],
+        "crystalline" : [
+            "spinel",
+            "amber",
+            "garnet",
+            "alexandrite",
+            "diamond",
+            "scarlet emerald",
+            "emerald",
+            "quartz",
+            "amethyst",
+            "aquamarine",
+            "pink ruby",
+            "ruby",
+            "peridot",
+            "sapphire",
+            "topaz"
+        ]
+    },
+    "type" : {
+        "opaque" : [
+            "rough",
+            "matte",
+            "murky",
+            "glossy",
+            "crudely cut",
+            "polished",
+            "cracked",
+            "split"
+        ],
+        "crystalline" : [
+            "foggy",
+            "intricate",
+            "translucent",
+            "misty",
+            "fibrous",
+            "cracked",
+            "crudely cut",
+            "clean cut"
+        ]
+    },
+    "size" : [
+        "fine",
+        "tiny",
+        "small",
+        "medium",
+        "large",
+        "massive"
+    ],
+    "shape" : [
+        "round",
+        "oval",
+        "triangular",
+        "square",
+        "rectangular",
+        "trapezoidal",
+        "heart shaped",
+        "pentagonal",
+        "hexagonal",
+        "octagonal",
+        "cushion shaped",
+        "trillion shaped",
+        "star shaped",
+        "drop shaped",
+        "pear shaped",
+        "marquise shaped",
+        "kite shaped",
+        "shield shaped",
+        "asymmetric",
+        "unworked"
+    ],
+    "cut" : [
+        "cabochon cut",
+        "point cut",
+        "table cut",
+        "single cut",
+        "brilliant cut",
+        "chequerboard cut",
+        "step cut",
+        "rose cut",
+        "princess cut",
+        "cameo cut",
+        "uncut"
+    ],
+    "quality" : {
+        "opaque" : [
+            "striated",
+            "banded",
+            "marbled",
+            "pure",
+            "spotted",
+            "dendritic",
+            "graded",
+            "criss-crossed",
+            "iridescent"
+        ],
+        "crystalline" : [
+            "stripped",
+            "sparkly",
+            "glittery",
+            "clear",
+            "speckled"
+        ]
+    }
+}
