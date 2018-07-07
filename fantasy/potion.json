@@ -96,6 +96,39 @@
         "sublimation",
         "deposition",
         "condensation"
+    ],
+    "flavor" : [
+        "a favorite drink or meal",
+        "the most horrible thing that could possibly exist",
+        "the exact taste of the last thing tasted",
+        "a changing array of flavors, first sweet, then acid, then bitter and so on",
+        "having fireworks of flavor explode inside, except some are not nice at all",
+        "an unknown flavor, that remains impossible to identify",
+        "a flavor that could be described as seeing a cute puppy with your mouth",
+        ""
+    ],
+    "effect" : [
+        "when drunk the creature will feel suddenly inspired to create art",
+        "will make those who drink it sleep a deep sleep",
+        "when drunk will make a random part of your body invisible",
+        "will drive those who drink it insane, with visions of hell and torment",
+        "will make those who drink it look frail and sick, but only in appearance",
+        "when drunk will attract vermin and pests, who all feel the need to mate immediately",
+        "will animate the drinkers shadow, which will cause mischief before returning",
+        "when drunk will permanently change the eye colors and pupils in some random way",
+        "will give those who drink it a vision and a quest that they must do immediately",
+        "will make those who drink it vomit a red liquid that might be confused with blood.",
+        "will make those who quaff it smell of fresh cookies or bakery",
+        "will hydrate, but do absolutely nothing else for those who drink it.",
+        "makes those who sample it desire seafood with an angst that can drive them into rage",
+        "when quaffed will make a voice whisper erotic fantasies into the drinkers ears",
+        "the drinker can speak with fish, but other creatures can't understand what they are saying",
+        "makes the drinkers hair grow wildly at one hundred times the normal rate",
+        "will polymorph those who drink it into a random gem, a scroll or a sword",
+        "will give the person enormous farts, which they find smell good, but makes all others sick",
+        "will empty the hearts of those who drink it of all desire, making them docile and obedient",
+        "makes those who taste it understand that «all things are connected» in oneness with nature",
+        "when sampled will exchange the senses, so to hear the color red and taste the sound of rain"
     ]
 }
 

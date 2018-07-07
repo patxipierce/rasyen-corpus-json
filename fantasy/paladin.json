@@ -59,7 +59,7 @@
         "loves to make pancakes for everyone on Sunday mornings",
         "secretly loves to bake, but became a knight because of a family tradition",
         "has one arm larger than the other due to training with heavy weapons",
-        "forsake true love to be able to better serve the kingdom",
+        "forsook true love to be able to better serve the kingdom",
         "was left at the temple's door and foretold to be a justice champion",
         "cannot say cuss words and deems those who do unworthy of trust",
         "is really not a knight or in any order, but pretends to for justices sake"
@@ -67,7 +67,8 @@
     "incantation" : [
         "Energy bursts forth from within the target creature",
         "Energy surrounds weapon as the strike lands",
-        "Energy falls from the sky or erupts from the ground"
+        "Energy falls from the sky",
+        "Energy erupts from the ground"
     ]
 }
 

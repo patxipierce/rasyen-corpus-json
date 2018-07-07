@@ -15,7 +15,8 @@
         "”Sexuality & Sex Appeal, Why You Have All Of It“",
         "”101 Excuses For When The Husband Walks In“",
         "”Poems About Bards Singing About Bards, Because Bards“",
-        "”How To Get Your First Groupie“"
+        "”How To Get Your First Groupie“",
+        "”Pick-up lines for any occasion“"
     ],
     "cleric" : [
         "”101 Ways to Burn Heathens to The Ground“",
@@ -25,17 +26,20 @@
         "”Troll Anatomy, A Study of Troll Healing & Regeneration“",
         "”The Fun Of Holy Wars - Go To Distant Places, Meet Exotic People, And Then Kill Them“",
         "”The Man Of God In Style - Robe Fashion - Spring Edition“",
-        "”How To Know If Altar Boys Are Into You“"
+        "”How To Know If Altar Boys Are Into You“",
+        "”Extraplanar creature compendium, and what deity is suspected of creating them“",
+        "”A page of the Mad God's tome, and 1001 possible interpretations“"
     ],
     "druid" : [
-        "”Aquaponics: One Fishes Trash Is Another Druids Treasure“",
+        "”Aquaponics: One Fishes Filth Is Another Druids Treasure“",
         "”Dolmen Architecture, Natural choices for any natural environment!“",
         "”Ogham Script ABC“",
         "”Cabinporn: Rustic Huts For A Hermit Like You“",
         "”What Is A Hippie? Find Out Why People Call You That“",
         "”Lighting Up The Dance Floor - Lightning Bolt Tactics“",
         "”Delicious Dungeon Cookbook. Preparing ooze, roots & the odd kobold“",
-        "”Clergy-men Can't Hunt“"
+        "”Clergy-men Can't Hunt“",
+        "“Training parrots to say obnoxious things at the right moment“"
     ],
     "fighter" : [
         "”Loot the Dungeon, Get The Girl: Classic stunts every fighter should know“",
@@ -44,7 +48,8 @@
         "”Panache: What It Is And Where To Get It.“",
         "”The Fighters Ego: Finding Weak Monsters To Bash.“",
         "”Letting The Wizard Have It, When Too Much Is Too Much“",
-        "”If You Can't Kill With It, Flirt With It, Or Drink It: You Don't Need It“"
+        "”If You Can't Kill With It, Flirt With It, Or Drink It: You Don't Need It“",
+        "”Complete guide to taverns and tavern wenches“"
     ],
     "monk" : [
         "”Punching things. Instructions on over 1000 things to punch“",
@@ -68,23 +73,36 @@
         "”Survival for Dummies - The Secret Is Banging Those Rocks Together“",
         "”Favoured Enemy Catalogue - Spring Edition“",
         "”Animal Companion Fashion, Be Mysterious In Style“",
-        "”Tactical Solutions For Everyday Problems“"
+        "”Tactical Solutions For Everyday Problems“",
+        "”Complete guide to footprints and tracking“",
+        "”Favoured terrain catalogue. With full color poster inside!“",
+        "”Animal Companions, the best friend you will ever have“",
+        "”Fun Outdoor Activities For You And Your Pets“",
+        "”Healthy diets for an austere lifestyle“"
     ],
     "rogue" : [
         "”The Art Of Tax Evasion“ by ”Robin Hood“",
         "”Neurotoxins for Fun, Health & Profit“",
         "”101 Moral Discourses & How To Backstab Them“",
-        "”The Fine Art Of Blame-Shifting“"
+        "”The Fine Art Of Blame-Shifting“",
+        "“The complete Thieves Cant thesaurus“",
+        "“The minimalist rogue, and why you need a sack of holding“",
+        "“Cloak & Dagger catalogue, sneak and stab in style“"
     ],
     "sorcerer" : [
         "”Lucid Dream Casting - Casting Spells In Your Sleep“",
         "”Why Me? A guide to survive curses and be OK at the end of the day“",
-        "”Understanding Your Dreams, Your Powers, & Pretty Much Everything Else“"
+        "”Understanding Your Dreams, Your Powers, & Pretty Much Everything Else“",
+        "”What is happening to me? A sorcerer's guide through puberty“",
+        "“The complete guide to other people's dreams“",
+        "“Mendel's law of arcane inheritance“"
     ],
     "warlock" : [
         "”Keep Your Toga On: Demon Law & Contract Loopholes“",
         "”Extra-Planar Employer Catalogue - Who Is Who In The World Of Outer Plane Powers“",
-        "”Witches & Broomsticks, A Seduction Guide For The Shy Warlock“"
+        "”Witches & Broomsticks, A Seduction Guide For The Shy Warlock“",
+        "”Finding the right patron for you. Ten example soul-binding contracts“",
+        "”Know Your Rights! - Warlock manifesto against patron exploitation“"
     ],
     "wizard" : [
         "“On Navigation of, and the Reliability of Perceptions Within, Non-Euclidean Space”",

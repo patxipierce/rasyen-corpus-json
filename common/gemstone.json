@@ -11,7 +11,7 @@
             "carnelian",
             "malachite"
         ],
-        "crystaline" : [
+        "crystalline" : [
             "spinel",
             "amber",
             "garnet",
@@ -33,14 +33,22 @@
         "opaque" : [
             "rough",
             "matte",
+            "murky",
             "glossy",
-            "polished"
+            "crudely cut",
+            "polished",
+            "cracked",
+            "split"
         ],
-        "crystaline" : [
+        "crystalline" : [
             "foggy",
             "intricate",
             "translucent",
-            "misty"
+            "misty",
+            "fibrous",
+            "cracked",
+            "crudely cut",
+            "clean cut"
         ]
     },
     "size" : [
@@ -98,7 +106,7 @@
             "criss-crossed",
             "iridescent"
         ],
-        "crystaline" : [
+        "crystalline" : [
             "stripped",
             "sparkly",
             "glittery",
