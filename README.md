@@ -6,4 +6,4 @@ The content itself is separated by topic, and avoids using RPG language (eg. "1d
 
 A lot of the content is always under constant review, re-classification, renewal, so you can expect changes at any time.
 
-If you see something out of order or have comments about the content please rise an issue [here](https://github.com/patxipierce/rasyen-corpus-json/issues/new).
+You can download the set and help make it better at [https://code.patxipierce.com/rasyen-corpus/](https://code.patxipierce.com/rasyen-corpus/).
